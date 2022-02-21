@@ -1,5 +1,6 @@
 ## Olá! Eu Sou o Leandro Azevedo
-  Seja bem vindos ao meu github. 
+
+  Bem vindos(a) ao meu github. 
 
 <div>
   <a href="https://github.com/alfa-leo-1">
